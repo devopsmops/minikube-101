@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-<img src="files/static/logoMinikube.png" width="95" height ="92" />
+<img src="files/static/logoMinikube.png" width="150" height ="150" />
 <br><br>
 <a href="https://t.me/devops_mops"><img src="files/static/logoTelegram.png" width="20" height="20" /></a>
 <img src="files/static/space.png" width="5" />

@@ -7,7 +7,7 @@
 <br>
 
 ## Содержание
-- [Запуск кластера]()
-- [Тестирование различных Container runtime]()
-    - [runc cli]()
-    - [crictl cli]()
+- [Запуск кластера](https://github.com/devopsmops/minikube-101/blob/main/minikube.md)
+- [Тестирование различных Container runtime](https://github.com/devopsmops/minikube-101/blob/main/minikube-cri.md)
+    - [runc cli](https://github.com/devopsmops/minikube-101/blob/main/runc.md)
+    - [crictl cli](https://github.com/devopsmops/minikube-101/blob/main/crictl.md)

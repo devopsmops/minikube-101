@@ -72,5 +72,3 @@ sudo crictl ps
 podman ps --sync --external --all
 ```
 <br>
-
-sudo crictl info

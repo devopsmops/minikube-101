@@ -1,3 +1,5 @@
-FROM php:5-apache
-COPY index.php /var/www/html/index.php
-RUN chmod a+rx index.php
+FROM httpd:2.4
+
+COPY ./html/ /usr/local/apache2/htdocs/
+
+EXPOSE 80

@@ -2,8 +2,8 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: static-app
+  name: static-app-docker
 spec:
   containers:
     - name: static-app
-      image: idwarlock/static-app:v1
+      image: idwarlock/static-app-docker:v1

@@ -1,5 +1,5 @@
 <p align="center">
-<img src="files/images/logoMinikube.png" width="150" height ="150" />
+<img src="logo.png" width="150" height ="150" />
 <br><br>
 
 # Minikube
